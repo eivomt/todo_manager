@@ -10,7 +10,7 @@ ruby lib/app.rb
 
 Then hit `Ctrl-C` to quit the program. You'll lose all your todos!
 
-#### Architecture
+### Architecture
 
 - **Model**: `Task`
 - **View**: `TasksView`
