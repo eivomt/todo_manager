@@ -16,4 +16,4 @@ Then hit `Ctrl-C` to quit the program. You'll lose all your todos!
 - **View**: `TasksView`
 - **Controller**: `TasksController`
 
-We fake the database with `TaskRepository` and the browser with `Router`.
+We fake the database with `TasksRepository` and the browser with `Router`.
