@@ -7,7 +7,7 @@ class Task
   end
 
   def done?
-    # Nice code
+    # Nice code and long comment
     @done
   end
 
